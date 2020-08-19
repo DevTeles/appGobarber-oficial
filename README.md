@@ -1,9 +1,19 @@
+<h1>Resultado Final</h1>
+
 <h1 align="center">
   APP - GoBarber
   <br /> <br />
   <img src="src/assets/SignIn.png" />
   <br /> <br />
   <img src="src/assets/SignUp.png" />
+  <br /> <br />
+  <img src="src/assets/gobarber1.png" />
+  <br /> <br />
+  <img src="src/assets/gobarber2.png" />
+  <br /> <br />
+  <img src="src/assets/gobarber3.png" />
+  <br /> <br />
+  <img src="src/assets/gobarber4.png" />
 </h1>
 
 # `Indice`
@@ -14,10 +24,10 @@
 
 ## React-Native
 
-Esse é um aplicativo para quem tem uma barbearia, o app se chama `**GoBarber**`, ele terá as funcionalidade de fazer os agendamentos com seu barbeiro preferido, ou seja, controlar a sua agenda.
+Esse é um aplicativo para quem tem uma barbearia, o app se chama `**GoBarber**`, ele terá a funcionalidade principal de fazer os agendamentos com seu barbeiro preferido, ou seja, controlar a sua agenda.
 
 É uma aplicação que se conectar com **backend**.
-
+https://github.com/DevTeles/backend-GoBarber
 ---
 
 ## Tecnologias utilizadas
@@ -32,7 +42,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - History
 - Polished
 - ReactIcons
-- yup.
+- yup
+- react-navigation/native
+- date-fns
+- react-native-vector-icons
 
 ---
 ## Como baixar o projeto
@@ -41,10 +54,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
   # Clonar o repositório
-  $ git clone https://github.com/DevTeles/App-GoBarber.git
+  $ git clone https://github.com/DevTeles/appGobarber-oficial.git
 
   # Entrar no diretório
-  $ cd App-GoBarber
+  $ cd appGoBarber-oficial
 
   # Instalar as dependências
   $ yarn
